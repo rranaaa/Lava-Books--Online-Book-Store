@@ -10,28 +10,28 @@
         <!--Custom CSS-->
         <link rel="stylesheet" href="Cascade Sheets/headerFooter.css">
         <!--Custom CSS-->
-        <link rel="stylesheet" href="Cascade Sheets/contact.css">    
+        <link rel="stylesheet" href="Cascade Sheets/contact.css">
         <!--Custom Java script-->
         <script src="Java Scripts/ContactUs/contact.js"></script>
 
-        <title>CONTACT US</title>        
+        <title>CONTACT US</title>
     </Head>
 
 
-    
+
     <body>
 
     <?php include "./header.php" ?>
-      
-        <h1>How can We help you?</h1> 
-        
+
+        <h1>How can We help you?</h1>
+
 <!--Contact us box -->
 <div class="contactUsBox">
     <div class="content-left">
         <div class="icons">
             <i class="fas fa-map-marker-alt" id="icon"><br><h2 class="side-text">Address<p class="side-para">Block4 Louran Alexandria, Egypt</p></h2></i><br>
             <i class="fas fa-phone" id="icon"><br><h2 class="side-text">Phone<p class="side-para">(+03) 34 6786543</p></h2></i><br>
-            <i class="fas fa-envelope" id="icon"><br><h2 class="side-text">Email<p class="side-para">info@booklr.com</p></h2></i><br>
+            <i class="fas fa-envelope" id="icon"><br><h2 class="side-text">Email<p class="side-para">info@lavabooks.com</p></h2></i><br>
         </div>
     </div>
     <div class="vertical-line"></div>
@@ -44,7 +44,7 @@
             <input type="email" id="email" name="email" placeholder="Enter your email"> <br>
             <textarea rows="5" id="msg" name="msg" placeholder="Enter your message"></textarea>
             <input type="submit" id="btnSendNow" value="Send now">
-            
+
         </form>
     </div>
 </div>
@@ -52,5 +52,5 @@
 <?php include "./footer.php"?>
 
 
-    </body>   
+    </body>
 </html>
