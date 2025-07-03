@@ -51,7 +51,7 @@ It provides users with an interactive interface to browse, search, and purchase 
    ```bash
    git clone https://github.com/rranaaa/Lava-Books--Online-Book-Store.git
    cd Lava-Books--Online-Book-Store
-````
+   ```
 
 2. **Set up your database**
 
